@@ -9,6 +9,7 @@
 		<h2>Sistema de Controle Financeiro Pessoal</h2>
 		<div>
 			<a href="contas-apagar.php">Contas a pagar</a>
+			<a href="contas-areceber.php">Contas a receber</a>
 		</div>
 	</body>
 </html>
